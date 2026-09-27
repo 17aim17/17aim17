@@ -10,6 +10,8 @@ Senior engineer at **Addepar**, previously **Twilio**. I work across frontend pr
 
 **[Biscotti](https://github.com/17aim17/biscotti-platform)**: online ordering for restaurants, with a branded storefront, live kitchen screen and dashboard. Next.js, Supabase Postgres, Prisma, Turborepo. [Live demo](https://biscotti-sigma.vercel.app)
 
+**[svelte-microfrontend-router](https://github.com/17aim17/micro-frontend-monorepo)**: path-based routing for Svelte 5 microfrontends inside any host framework, keeping the host's router in sync with no hash URLs or global patching. Demo: a React dashboard loading a Svelte remote through Module Federation 2.0.
+
 ## Stack
 
 TypeScript, React, Next.js, TanStack Router, Node.js, GraphQL, Postgres, Prisma, Supabase, Module Federation, Vite, Webpack, pnpm, Turborepo, GitHub Actions, Docker
