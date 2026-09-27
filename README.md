@@ -8,9 +8,11 @@ Senior engineer at **Addepar**, previously **Twilio**. I work across frontend pr
 
 ## Featured
 
-**[Biscotti](https://github.com/17aim17/biscotti-platform)**: online ordering for restaurants, with a branded storefront, live kitchen screen and dashboard. Next.js, Supabase Postgres, Prisma, Turborepo. [Live demo](https://biscotti-sigma.vercel.app)
+**[Biscotti](https://github.com/17aim17/biscotti-platform)**: online ordering for restaurants, with a branded storefront, live kitchen screen and dashboard. Next.js, Supabase Postgres, Prisma, Turborepo.<br>
+Live: [demo](https://biscotti-sigma.vercel.app)
 
-**[svelte-microfrontend-router](https://github.com/17aim17/svelte-microfrontend-router)**: path-based routing for Svelte 5 microfrontends inside any host framework, keeping the host's router in sync with no hash URLs or global patching. Demo: the same Svelte remote inside React and Vue dashboards, loaded through Module Federation 2.0. [Live demo](https://svelte-mfe-react.vercel.app/admin/users)
+**[svelte-microfrontend-router](https://github.com/17aim17/svelte-microfrontend-router)**: path-based routing for Svelte 5 microfrontends inside any host framework, keeping the host's router in sync with no hash URLs or global patching. Demo: the same Svelte remote inside React and Vue dashboards, loaded through Module Federation 2.0.<br>
+Live: [React host](https://svelte-mfe-react.vercel.app/admin/users) · [Vue host](https://svelte-mfe-vue.vercel.app/admin/users) · [Svelte remote alone](https://svelte-mfe-admin.vercel.app/users)
 
 ## Stack
 
