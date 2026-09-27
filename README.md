@@ -14,6 +14,6 @@ Senior engineer at **Addepar**, previously **Twilio**. I work across frontend pr
 
 ## Stack
 
-TypeScript, React, Next.js, TanStack Router, Node.js, GraphQL, Postgres, Prisma, Supabase, Module Federation, Vite, Webpack, pnpm, Turborepo, GitHub Actions, Docker
+TypeScript, React, Next.js, TanStack Router, Svelte, Vue, Node.js, GraphQL, Postgres, Prisma, Supabase, Module Federation, Vite, Webpack, pnpm, Turborepo, GitHub Actions, Docker
 
 [LinkedIn](https://linkedin.com/in/ashish17kumar) · ashishkumar87856@gmail.com
