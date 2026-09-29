@@ -8,7 +8,7 @@ Senior engineer at **Addepar**, previously **Twilio**. I work across frontend pr
 
 ## Featured
 
-**[Biscotti](https://github.com/17aim17/biscotti-platform)**: multi-tenant online ordering for restaurants, with a branded storefront, live kitchen screen and dashboard per restaurant. Every server query is scoped to its restaurant with role checks, row-level security locks the database by default, prices are computed on the server, and payments are double-confirmed (signed webhook and browser callback) but recorded once. Next.js, Supabase Postgres, Prisma, Turborepo.<br>
+**[Biscotti](https://github.com/17aim17/biscotti-platform)**: multi-tenant online ordering for restaurants. Each restaurant gets its own branded storefront, a live kitchen screen and a dashboard, all from one app. Restaurants never see each other's data, prices are set on the server so a cart can't be tampered with, and a payment is never recorded twice. Next.js, Supabase, Prisma.<br>
 Live: [demo](https://biscotti-sigma.vercel.app)
 
 **[svelte-microfrontend-router](https://github.com/17aim17/svelte-microfrontend-router)**: path-based routing for Svelte 5 microfrontends inside any host framework, keeping the host's router in sync with no hash URLs or global patching. Demo: the same Svelte remote inside React and Vue dashboards, loaded through Module Federation 2.0.<br>
