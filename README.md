@@ -3,7 +3,7 @@
 Senior engineer at **Addepar**, previously **Twilio**. I work across frontend product and the web platform under it, and I build full stack in TypeScript.
 
 - **Product:** React features end to end, from role-based access control for Twilio Flex to integrating virtual agents, with bot-to-agent handoff, into the Flex contact center.
-- **Platform:** microfrontends on Module Federation 2.0, shared data-fetching and caching, build performance (60%+ faster local rebuilds for 100+ engineers), Backstage scaffolding, and CI/CD.
+- **Platform:** microfrontends on Module Federation 2.0, shared data-fetching and caching, build performance (about 60% faster rebuilds in a 226-contributor app), Backstage scaffolding, and CI/CD.
 - **Full stack:** Node.js, GraphQL BFFs, Postgres with Prisma, and deploying what I build.
 
 ## Featured
